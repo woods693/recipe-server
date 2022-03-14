@@ -1,0 +1,4 @@
+Python Version 3.8.10
+Pip version 21.1.2
+
+>pip install -r requirements.txt
